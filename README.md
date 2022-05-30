@@ -1,4 +1,4 @@
-<h4>Bulk Upload Data from Excel, CSV Files to Firestore using Laravel Zero</h4>
+<h4>[Deprecated] Bulk Upload Data from Excel, CSV Files to Firestore using Laravel Zero</h4>
 
 Firestore is a fantastic cloud No SQL database. But uploading bulk data into Firestore is a notorious task as there is no proper tool for that. To do that, one needs to create their own tool. Typically, a lot of online tuts suggest using Node.js for building such a command-line tool. But, for those who are not familiar with Javascript, there is another approach for this task. That's Laravel Zero, an excellent framework maintained by [Nuno Maduro](https://github.com/nunomaduro), and is a micro-framework that provides an elegant starting point for your console application. It is an **unofficial** and customized version of Laravel optimized for building command-line applications.
 
